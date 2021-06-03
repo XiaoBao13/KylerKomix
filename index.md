@@ -4,7 +4,7 @@
 
    KylerKomix is a website for comics made by Kyler Adams!
    
-   ![Welcome1](Welcome)
+   ![Welcome](Welcome1)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
