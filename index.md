@@ -2,7 +2,7 @@
 
    KylerKomix is a website for comics made by Kyler Adams!
 
-You can use the [editor on GitHub](https://github.com/XiaoBao13/KylerKomix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Home](https://https://xiaobao13.github.io/KylerKomix/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
