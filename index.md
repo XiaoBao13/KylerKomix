@@ -1,8 +1,9 @@
 ## KylerKomix
 
+[Home](https://https://xiaobao13.github.io/KylerKomix/)   [About](https://https://xiaobao13.github.io/KylerKomix/)   [Komix!](https://https://xiaobao13.github.io/KylerKomix/)
+
    KylerKomix is a website for comics made by Kyler Adams!
 
-[Home](https://https://xiaobao13.github.io/KylerKomix/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
