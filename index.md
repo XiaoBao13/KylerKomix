@@ -1,6 +1,6 @@
 ## KylerKomix
 
-      KylerKomix is a website for comics made by Kyler Adams!
+   KylerKomix is a website for comics made by Kyler Adams!
 
 You can use the [editor on GitHub](https://github.com/XiaoBao13/KylerKomix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
