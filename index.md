@@ -6,6 +6,6 @@
    
    ![Welcome](/KylerKomix/welcome1.png)
 
-### Help or Contact
+##### Help or Contact
 
 Having trouble with the website? Check out our [Discord server](https://discord.gg/mgbny6Ebg4) or contact support at XiaoBao13#7146 ( or Kyler Adams#4142 )
