@@ -4,7 +4,7 @@
    
    
    
-   ![Welcome](KylerKomix/Komix/welcome1.png)
+   ![Welcome](KylerKomix/welcome1.png)
    
    
    
