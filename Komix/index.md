@@ -12,8 +12,8 @@
    
    
    
-   
-   ![comic1](/KylerKomix/Komix/BadComic1.png)
+   Comic - Bad Comic (First comic =D)
+   ![BadComic](/KylerKomix/Komix/BadComic1.png)
    
    
    
