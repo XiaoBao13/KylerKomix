@@ -2,7 +2,9 @@
 
 [Home](https://xiaobao13.github.io/KylerKomix) | [About](https://xiaobao13.github.io/KylerKomix) | [Komix!](https://xiaobao13.github.io/KylerKomix/Komix) | [Discord server](https://discord.gg/mgbny6Ebg4)
    
-   ![Welcome](KylerKomix/welcome1.png)
+   
+   
+   ![Welcome](/KylerKomix/Images/Comics/welcome1.png)
    
    
    
