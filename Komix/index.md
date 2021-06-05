@@ -17,6 +17,13 @@
    ![BadComic](/KylerKomix/Komix/BadComic1.png)
    
    
+   Sketch - Ruining childhoods n stuff!
+   
+   (credit to original cartoon characters and stuff, some i made off memes and all)
+   
+   ![ONOsketch](/KylerKomix/Komix/ruining yourchildhood1.png)
+   
+   
    
    
   (more to come!) 
