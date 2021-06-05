@@ -1,4 +1,4 @@
-link rel="shortcut icon" type="image/x-icon" href="favicon.ico"
+<link rel="shortcut icon" href="{path to favicon file}" />
 
 ## KylerKomix
 
