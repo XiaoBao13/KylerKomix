@@ -12,7 +12,7 @@
    
    
    
-   ![comic1](/KylerKomix-Komix/BadComic1.png)
+   ![comic1](/KylerKomix/Komix/BadComic1.png)
    
    
    
