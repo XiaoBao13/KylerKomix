@@ -1,10 +1,10 @@
 ## KylerKomix
 
-[Home](xiaobao13.github.io/KylerKomix/) | [About](xiaobao13.github.io/KylerKomix/) | [Komix!](xiaobao13.github.io/KylerKomix-Komix/) | [Discord server](https://discord.gg/mgbny6Ebg4)
+[Home](xiaobao13.github.io/KylerKomix/) | [About](xiaobao13.github.io/KylerKomix/) | [Komix!](xiaobao13.github.io/KylerKomix/Komix) | [Discord server](https://discord.gg/mgbny6Ebg4)
 
    KylerKomix is a website for comics made by Kyler Adams!
    
-   ![Welcome](/KylerKomix/welcome1.png)
+   ![Welcome](/KylerKomix/Images/Comics/welcome1.png)
 
 ### Help or Contact
 
