@@ -4,7 +4,7 @@
 
    KylerKomix is a website for comics made by Kyler Adams!
    
-   ![Welcome](/KylerKomix/Images/Comics/welcome1.png)
+   ![Welcome](/KylerKomix/welcome1.png)
 
 ### Help or Contact
 
