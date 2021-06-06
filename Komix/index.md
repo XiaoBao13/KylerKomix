@@ -26,6 +26,15 @@
    
    
    
+   Sketch - Eddsworld Edd smiling!
+   
+   (credit to original cartoon characters and stuff)
+   
+   ![EDDsketch](/KylerKomix/Komix/smilling edd1.png)
+   
+   
+   
+   
   (more to come!) 
    
    
