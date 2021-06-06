@@ -1,5 +1,3 @@
-<link rel="shortcut icon" href="{path to favicon file}" />
-
 ## KylerKomix
 
 [Home](https://xiaobao13.github.io/KylerKomix) | [About](https://xiaobao13.github.io/KylerKomix/About) | [Komix!](https://xiaobao13.github.io/KylerKomix/Komix) | [Discord server](https://discord.gg/mgbny6Ebg4)
