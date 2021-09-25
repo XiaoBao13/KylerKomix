@@ -1,6 +1,6 @@
 [Home](https://xiaobao13.github.io/KylerKomix) | [About](https://xiaobao13.github.io/KylerKomix/About) | [Komix!](https://xiaobao13.github.io/KylerKomix/Komix) | [Discord server](https://discord.gg/mgbny6Ebg4) | [Games!](https://xiaobao13.github.io/KylerKomix/Games) | 
 
-View the new games here!
+View the games here!
 
 [Run Scratch Cat Run!](https://github.com/XiaoBao13/KylerKomix/Games/Run%20Scratch%20Cat%20Run!/RSCRdemo1.html) | 
 
