@@ -2,7 +2,7 @@
 
 View the games here!
 
-[Run Scratch Cat Run!](https://xiaobao13.github.io/KylerKomix/Games/Run%20Scratch%20Cat%20Run!/RSCRdemo1.html) | 
+[Run Scratch Cat Run!](https://xiaobao13.github.io/KylerKomix/Games/Run%20Scratch%20Cat%20Run!/RSCRdemo2.html) | 
 
 (more to come :)
 
