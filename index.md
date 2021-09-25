@@ -11,6 +11,7 @@ News:
      New Comic/Sketch on the website today! 6/4/2021-
      New Comic/Sketch on the website today! 6/5/2021-
      New Comic/Sketch on the website today! 6/5/2021-
+     New Category on the website today! GAMES! 9/24/2021-
 
 
 
