@@ -1,6 +1,6 @@
 ## KylerKomix
 
-[Home](https://xiaobao13.github.io/KylerKomix) | [About](https://xiaobao13.github.io/KylerKomix/About) | [Komix!](https://xiaobao13.github.io/KylerKomix/Komix) | [Discord server](https://discord.gg/mgbny6Ebg4) | [Games!](https://xiaobao13.github.io/KylerKomix/Games/Run Scratch Cat Run!/Run Scratch Cat Run! (Demo).html) | 
+[Home](https://xiaobao13.github.io/KylerKomix) | [About](https://xiaobao13.github.io/KylerKomix/About) | [Komix!](https://xiaobao13.github.io/KylerKomix/Komix) | [Discord server](https://discord.gg/mgbny6Ebg4) | [Games!](https://xiaobao13.github.io/KylerKomix/Games/Run%20Scratch%20Cat%20Run!/Run%20Scratch%20Cat%20Run!%20(Demo).html) | 
 
    KylerKomix is a website for comics made by Kyler Adams!
    
