@@ -2,7 +2,7 @@
 
 View the games here!
 
-[Run Scratch Cat Run!](https://xiaobao13.github.io/KylerKomix/Games/Run%20Scratch%20Cat%20Run!/RSCRdemo2.html) | 
+[Run Scratch Cat Run!](https://xiaobao13.github.io/KylerKomix/Games/Run%20Scratch%20Cat%20Run!/RSCRdemo3.html) | 
 [PiColor Ver 0.1](https://xiaobao13.github.io/KylerKomix/Games/PiColor/pcv1.html) | 
 [Rainbow Draw ver 0.6](https://xiaobao13.github.io/KylerKomix/Games/RainBow%20Draw/rbd06.html) | 
 
