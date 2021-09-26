@@ -5,6 +5,7 @@ View the games here!
 [Run Scratch Cat Run!](https://xiaobao13.github.io/KylerKomix/Games/Run%20Scratch%20Cat%20Run!/RSCRdemo4.html) | 
 [PiColor Ver 0.1](https://xiaobao13.github.io/KylerKomix/Games/PiColor/pcv1.html) | 
 [Rainbow Draw ver 0.6](https://xiaobao13.github.io/KylerKomix/Games/RainBow%20Draw/rbd06.html) | 
+[[BLINDING LIGHTS AND WIDESCREEN] Friday Night Funkin](https://xiaobao13.github.io/KylerKomix/Games/[BLINDING%20LIGHTS%20AND%20WIDESCREEN]%20Friday%20Night%20Funkin/Redirect.html) | 
 
 (more to come :)
 
@@ -14,3 +15,6 @@ View the games here!
 ##### Help or Contact
 
 ###### Having trouble with the website? Check out our [Discord server](https://discord.gg/mgbny6Ebg4) or contact support at XiaoBao13#7146 ( or Kyler Adams#4142 )
+
+
+[BLINDING LIGHTS AND WIDESCREEN] Friday Night Funkin/Redirect.html
