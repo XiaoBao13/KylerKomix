@@ -17,6 +17,11 @@
    ![BadComic](/KylerKomix/Komix/BadComic1.png)
    
    
+   Comic - Beginning of a friendship!
+   
+   ![...?Comic](/KylerKomix/Komix/maybeaaosquestionmark.png)
+   
+   
    Sketch - Ruining childhoods n stuff!
    
    (credit to original cartoon characters and stuff, some i made off memes and all)
