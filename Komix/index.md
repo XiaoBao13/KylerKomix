@@ -50,4 +50,4 @@
 
 ### Help or Contact
 
-###### Having trouble with the website? Check out our [Discord server](https://discord.gg/mgbny6Ebg4) or contact support at XiaoBao13#7146 ( or Kyler Adams#4142 )
+###### Having trouble with the website? Check out our [Discord server](https://discord.gg/hG2XdDethJ) or contact support at Fluffy Gaia#0001
